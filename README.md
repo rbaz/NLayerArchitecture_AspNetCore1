@@ -1,0 +1,1 @@
+# NLayerArchitecture_AspNetCore1
